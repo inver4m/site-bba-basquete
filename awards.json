@@ -1,0 +1,50 @@
+{
+  "mvpLeader": {
+    "name": "rollheiser",
+    "team": "SAN ANTONIO SPURS",
+    "pos": "PG",
+    "ovr": 65,
+    "pts": "0.0",
+    "reb": "0.0",
+    "ast": "0.0",
+    "rec": "0-0",
+    "story": "Temporada em início: estatísticas oficiais serão computadas após as primeiras rodadas."
+  },
+  "mvpChallengers": [
+    { "rank": 2, "name": "dyvbaIa", "team": "CHARLOTTE HORNETS", "pts": "0.0", "ast": "0.0" },
+    { "rank": 3, "name": "magicjordan56", "team": "CHICAGO BULLS", "pts": "0.0", "reb": "0.0" },
+    { "rank": 4, "name": "ameeriican", "team": "NEW YORK KNICKS", "pts": "0.0", "ast": "0.0" },
+    { "rank": 5, "name": "zenitsu22163", "team": "LOS ANGELES LAKERS", "pts": "0.0", "ast": "0.0" }
+  ],
+  "dpoyLeader": {
+    "name": "pxdrisk",
+    "team": "MILWAUKEE BUCKS",
+    "pos": "C",
+    "ovr": 65,
+    "blk": "0.0",
+    "reb": "0.0",
+    "stl": "0.0",
+    "story": "Disputa pelo prêmio de Melhor Defensor aberta para a temporada 2026."
+  },
+  "dpoyChallengers": [
+    { "rank": 2, "name": "xedgrs", "team": "DALLAS MAVERICKS", "stat": "0.0 BPG · 0.0 RPG" },
+    { "rank": 3, "name": "ex4zdu", "team": "MEMPHIS GRIZZLIES", "stat": "0.0 SPG · 0.0 RPG" }
+  ],
+  "royLeader": {
+    "name": "BrasilMzs",
+    "team": "BOSTON CELTICS",
+    "pos": "SF",
+    "ovr": 65,
+    "stat": "0.0 PPG · 0.0 RPG",
+    "story": "Corrida pelo troféu de Calouro do Ano aberta na Conferência Leste."
+  },
+  "sixthManLeader": {
+    "name": "aIexinho",
+    "team": "SAN ANTONIO SPURS",
+    "pos": "SG",
+    "ovr": 65,
+    "stat": "0.0 PPG · 0% 3PT",
+    "story": "Disputa de melhor reserva e faísca imediata vindo do banco."
+  }
+}
+

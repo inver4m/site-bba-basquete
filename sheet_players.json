@@ -1,0 +1,842 @@
+﻿[
+    {
+        "id":  1,
+        "name":  "pxdrisk",
+        "team":  "MILWAUKEE BUCKS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  2,
+        "name":  "Guto416",
+        "team":  "MINNESOTA TIMBERWOLVES",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  3,
+        "name":  "xedgrs",
+        "team":  "DALLAS MAVERICKS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  4,
+        "name":  "ocaradagrana",
+        "team":  "GOLDEN STATE WARRIORS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  5,
+        "name":  "zenitsu22163",
+        "team":  "LOS ANGELES LAKERS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  6,
+        "name":  "ex4zdu",
+        "team":  "MEMPHIS GRIZZLIES",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  7,
+        "name":  "Satorogojo1001",
+        "team":  "OKLAHOMA CITY THUNDER",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  8,
+        "name":  "polardopneu18",
+        "team":  "GOLDEN STATE WARRIORS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  9,
+        "name":  "roIIheiser",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  10,
+        "name":  "BrasilMzs",
+        "team":  "BOSTON CELTICS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  11,
+        "name":  "deprsd40",
+        "team":  "DALLAS MAVERICKS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  12,
+        "name":  "batata_universal090",
+        "team":  "MIAMI HEAT",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  13,
+        "name":  "ameeriican",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  14,
+        "name":  "Gummy014409",
+        "team":  "PHILADELPHIA 76ers",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  15,
+        "name":  "vitinzx2009",
+        "team":  "CLEVELAND CAVALIERS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  16,
+        "name":  "R1F2R3",
+        "team":  "MEMPHIS GRIZZLIES",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  17,
+        "name":  "Marti30_5",
+        "team":  "MIAMI HEAT",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  18,
+        "name":  "gabaresi",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  19,
+        "name":  "ruthezo",
+        "team":  "MEMPHIS GRIZZLIES",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  20,
+        "name":  "tourop11",
+        "team":  "MIAMI HEAT",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  21,
+        "name":  "JossaBr",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  22,
+        "name":  "Fiwoyr",
+        "team":  "MEMPHIS GRIZZLIES",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  23,
+        "name":  "guiwrd",
+        "team":  "MEMPHIS GRIZZLIES",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  24,
+        "name":  "Rafaelkhun14",
+        "team":  "MIAMI HEAT",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  25,
+        "name":  "Brenzloo",
+        "team":  "MEMPHIS GRIZZLIES",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  26,
+        "name":  "pegou675",
+        "team":  "MIAMI HEAT",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  27,
+        "name":  "jp134495",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  28,
+        "name":  "gugaplaysmi",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  29,
+        "name":  "aIexinho",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  30,
+        "name":  "iagol5",
+        "team":  "BOSTON CELTICS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  31,
+        "name":  "kaique7660",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  32,
+        "name":  "lxcenzi",
+        "team":  "PHILADELPHIA 76ers",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  33,
+        "name":  "Pedro231994",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  34,
+        "name":  "vecenzii",
+        "team":  "PHILADELPHIA 76ers",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  35,
+        "name":  "faccenzi",
+        "team":  "PHILADELPHIA 76ers",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  36,
+        "name":  "taareekballer",
+        "team":  "CHARLOTTE HORNETS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  37,
+        "name":  "sircenzi",
+        "team":  "PHILADELPHIA 76ers",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  38,
+        "name":  "FernandoDiniiz",
+        "team":  "SAN ANTONIO SPURS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  39,
+        "name":  "yoyoa87",
+        "team":  "PHILADELPHIA 76ers",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  40,
+        "name":  "AwakeLoong",
+        "team":  "PHILADELPHIA 76ers",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  41,
+        "name":  "edukayh",
+        "team":  "BOSTON CELTICS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  42,
+        "name":  "bicenzii",
+        "team":  "PHILADELPHIA 76ers",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  43,
+        "name":  "leandrop809",
+        "team":  "BOSTON CELTICS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  44,
+        "name":  "Gtestzloc40",
+        "team":  "CHICAGO BULLS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  45,
+        "name":  "vaszcco",
+        "team":  "BOSTON CELTICS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  46,
+        "name":  "Fake_MattX",
+        "team":  "CHICAGO BULLS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  47,
+        "name":  "BAK77700",
+        "team":  "OKLAHOMA CITY THUNDER",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  48,
+        "name":  "caixinhaJBL",
+        "team":  "BOSTON CELTICS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  49,
+        "name":  "lipezorox",
+        "team":  "BOSTON CELTICS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  50,
+        "name":  "magicjordan56",
+        "team":  "CHICAGO BULLS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  51,
+        "name":  "sophail123",
+        "team":  "BOSTON CELTICS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  52,
+        "name":  "Altdojaponeis",
+        "team":  "CHICAGO BULLS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  53,
+        "name":  "focaluca",
+        "team":  "BOSTON CELTICS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  54,
+        "name":  "hholypar",
+        "team":  "CHICAGO BULLS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  55,
+        "name":  "Bl4ckmi",
+        "team":  "OKLAHOMA CITY THUNDER",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  56,
+        "name":  "gui2008mito",
+        "team":  "OKLAHOMA CITY THUNDER",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  57,
+        "name":  "Vtzxxw",
+        "team":  "CHICAGO BULLS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  58,
+        "name":  "hiroshi_d",
+        "team":  "OKLAHOMA CITY THUNDER",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  59,
+        "name":  "ykGznn",
+        "team":  "CHICAGO BULLS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  60,
+        "name":  "IssuesTerror",
+        "team":  "OKLAHOMA CITY THUNDER",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  61,
+        "name":  "juanitaMInhaDona",
+        "team":  "OKLAHOMA CITY THUNDER",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  62,
+        "name":  "galaazrocki",
+        "team":  "CHICAGO BULLS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  63,
+        "name":  "SaMuCa12121255",
+        "team":  "CHICAGO BULLS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  64,
+        "name":  "vitor_piruleta",
+        "team":  "GOLDEN STATE WARRIORS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  65,
+        "name":  "Amigopegadomeu",
+        "team":  "GOLDEN STATE WARRIORS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  66,
+        "name":  "XIBenXI",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  67,
+        "name":  "Tedkrb",
+        "team":  "GOLDEN STATE WARRIORS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  68,
+        "name":  "arthurnalta",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  69,
+        "name":  "muri150609",
+        "team":  "MINNESOTA TIMBERWOLVES",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  70,
+        "name":  "mathct17",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  71,
+        "name":  "Henndjdj",
+        "team":  "MINNESOTA TIMBERWOLVES",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  72,
+        "name":  "Felipe_Kv09",
+        "team":  "MINNESOTA TIMBERWOLVES",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  73,
+        "name":  "pIaatini",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  74,
+        "name":  "Iuqzz",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  75,
+        "name":  "Lkneslfn",
+        "team":  "MINNESOTA TIMBERWOLVES",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  76,
+        "name":  "chinaardo",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  77,
+        "name":  "trax22x",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  78,
+        "name":  "MILEPINHO",
+        "team":  "DALLAS MAVERICKS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  79,
+        "name":  "Guinomio12316741",
+        "team":  "DALLAS MAVERICKS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  80,
+        "name":  "Felipecruzz7",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  81,
+        "name":  "leonardocp7",
+        "team":  "NEW YORK KNICKS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  82,
+        "name":  "R7ZIN060",
+        "team":  "DALLAS MAVERICKS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  83,
+        "name":  "PBforthree",
+        "team":  "LOS ANGELES LAKERS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  84,
+        "name":  "menino_legal2020",
+        "team":  "PHOENIX SUNS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  85,
+        "name":  "apelotgamer1227",
+        "team":  "DALLAS MAVERICKS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  86,
+        "name":  "Ravenn357",
+        "team":  "LOS ANGELES LAKERS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  87,
+        "name":  "MCPHH1533",
+        "team":  "DALLAS MAVERICKS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  88,
+        "name":  "lw1557",
+        "team":  "LOS ANGELES LAKERS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  89,
+        "name":  "pedroratinh0",
+        "team":  "PHOENIX SUNS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  90,
+        "name":  "gumbalirom",
+        "team":  "LOS ANGELES LAKERS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  91,
+        "name":  "GabrielHero030",
+        "team":  "PHOENIX SUNS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  92,
+        "name":  "arthur231bolado",
+        "team":  "LOS ANGELES LAKERS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  93,
+        "name":  "Singzn1",
+        "team":  "PHOENIX SUNS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  94,
+        "name":  "neropjlf",
+        "team":  "LOS ANGELES LAKERS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  95,
+        "name":  "semsso1",
+        "team":  "CLEVELAND CAVALIERS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  96,
+        "name":  "fellz159",
+        "team":  "CLEVELAND CAVALIERS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  97,
+        "name":  "tainagg00",
+        "team":  "PHOENIX SUNS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  98,
+        "name":  "clypx_9",
+        "team":  "CLEVELAND CAVALIERS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  99,
+        "name":  "Aidenstormybacon2017",
+        "team":  "PHOENIX SUNS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  100,
+        "name":  "davimolub",
+        "team":  "CLEVELAND CAVALIERS",
+        "pos":  "PF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  101,
+        "name":  "raneygamer77",
+        "team":  "CLEVELAND CAVALIERS",
+        "pos":  "C",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  102,
+        "name":  "Mr_Teorias",
+        "team":  "PHOENIX SUNS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  103,
+        "name":  "Ioowqz",
+        "team":  "MILWAUKEE BUCKS",
+        "pos":  "SF",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  104,
+        "name":  "ShiroMyers",
+        "team":  "MILWAUKEE BUCKS",
+        "pos":  "PG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    },
+    {
+        "id":  105,
+        "name":  "RED_ACE3",
+        "team":  "MILWAUKEE BUCKS",
+        "pos":  "SG",
+        "ovr":  65,
+        "tier":  "ROOKIE"
+    }
+]
